@@ -1,0 +1,4 @@
+preproc 1
+sof tests/two-files.t
+identifier file1
+eof
